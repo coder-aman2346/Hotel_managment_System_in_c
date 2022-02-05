@@ -1,0 +1,6 @@
+HOTEL MANAGEMENT SYSTEM PROJECT IN C
+
+LOGIN DETAILS:
+
+Username: user
+Password: pass
